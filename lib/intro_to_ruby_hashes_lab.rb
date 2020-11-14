@@ -1,5 +1,5 @@
 def new_hash
-  new_hash = {}
+  {}
 end
 
 def my_hash
@@ -7,10 +7,10 @@ def my_hash
 end
 
 def pioneer
-  pioneer = {:name => 'Grace Hopper'}
+  {:name => 'Grace Hopper'}
 end
 
 
 def id_hash_generator(number)
-  id_hash_generator = {:id => number}
+  id_hash_generator = {id: number}
 end
